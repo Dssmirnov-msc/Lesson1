@@ -16,7 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("Здесь был Вася");
-        System.out.println("Рабы не мы, мы не рабы");
+        System.out.println("Рабы не мы, мы не рыбы");
     }
     
 }
