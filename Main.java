@@ -15,7 +15,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Здесь был Гриша");
+        System.out.println("Здесь был Коля");
         System.out.println("Рабы не мы, мы не рыбы");
     }
     
